@@ -20,7 +20,7 @@
 		</pluginRepository>
 	</pluginRepositories>
 	<modules>          			
-			<module>../weather</module>				
+			<module>weather</module>				
 	</modules>
 	<build>
 	
