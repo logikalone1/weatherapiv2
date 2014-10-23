@@ -4,7 +4,7 @@
     <Flows/>
     <HTTPTargetConnection>
         <Properties/>
-        <URL>http://weather.yahooapis.com</URL>
+        <URL>http://weather.yahooapis.com2</URL>
     </HTTPTargetConnection>
     <PreFlow name="PreFlow">
         <Request/>
