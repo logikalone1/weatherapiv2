@@ -78,6 +78,7 @@
 					<id>configure-bundle-step</id>
 					<phase>package</phase>
 					<configuration>
+						<outputDirectory>${basedir}/target/zip</outputDirectory>
 						<skip>false</skip>
 					</configuration>
 					<goals>
